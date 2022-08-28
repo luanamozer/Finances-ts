@@ -14,6 +14,20 @@ export const HeaderContent = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+  span {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: center;
+
+    p {
+      font-size: 1.5rem;
+      font-weight: bold;
+      font-family: Roboto, sans-serif;
+      color: ${(props) => props.theme["white"]};
+    }
+  }
 `;
 
 export const NewTransactionButton = styled.button`
