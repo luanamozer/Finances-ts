@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": "200",
       "createdAt": "2022-08-29T18:03:00.233Z"
+    },
+    {
+      "description": "teste de api",
+      "price": 12000,
+      "category": "testes",
+      "type": "income",
+      "createdAt": "2022-10-18T16:11:59.401Z",
+      "id": 4
+    },
+    {
+      "description": "pastel",
+      "price": 3,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-18T16:35:05.063Z",
+      "id": 5
     }
   ]
 }
