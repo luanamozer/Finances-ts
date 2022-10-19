@@ -1,10 +1,10 @@
-# Finances-ts
+# DT Finances-ts
 Projeto desenvolvido no 3° mod do Ignite 
 
 
 ## 📋 Projeto
 
-Projeto **Finances** é uma aplicação de registro de finanças desenvolvida com intuito de aprender sobre consumos de API. Foi feita utilizando json.server conectando o front-end a uma API mocada. Foi aprendido e desenvolvido também técnicas de perfomance com React, conhecendo mais alguns hooks. Aqui é possivel:
+Projeto **DT Finances** é uma aplicação de registro de finanças desenvolvida com intuito de aprender sobre consumos de API. Foi feita utilizando json.server conectando o front-end a uma API mocada. Foi aprendido e desenvolvido também técnicas de perfomance com React, conhecendo mais alguns hooks. Aqui é possivel:
 - Inserir registro de Entrada e saída de valores
 - É calculado os valores e mostra o resumo no topo
 - Controle Financeiro 
