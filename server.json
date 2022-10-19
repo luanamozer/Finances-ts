@@ -24,14 +24,7 @@
       "price": "200",
       "createdAt": "2022-08-29T18:03:00.233Z"
     },
-    {
-      "description": "teste de api",
-      "price": 12000,
-      "category": "testes",
-      "type": "income",
-      "createdAt": "2022-10-18T16:11:59.401Z",
-      "id": 4
-    },
+
     {
       "description": "pastel",
       "price": 3,
